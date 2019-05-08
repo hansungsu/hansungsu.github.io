@@ -4,4 +4,6 @@ title:  "처음등록하는 포스트"
 date:   2019-05-08 11:36:58 +0900
 categories: jekyll update
 ---
+![My helpful screenshot]({{ "/assets/01.png" | absolute_url }})
+
 처음등록하는 포스트 입니다. 마크다운을 연습해보고 css 변경도 한번 해봐야 겠군요 
