@@ -12,7 +12,7 @@ const config = {
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
-  url: "https://github.com/hansungsu", // Your website URL
+  url: "https://hansungsu.github.io/", // Your website URL
   baseUrl: "/",
   projectName: "hansungsu.github.io",
   organizationName: "hansungsu",
