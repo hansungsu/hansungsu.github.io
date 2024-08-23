@@ -67,6 +67,7 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
+          { to: "/docs/design", label: "designsystem", position: "left" },
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
@@ -75,7 +76,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/hansungsu/",
             label: "GitHub",
             position: "right",
           },
